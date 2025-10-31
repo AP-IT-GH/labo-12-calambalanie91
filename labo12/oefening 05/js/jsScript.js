@@ -1,3 +1,4 @@
+"use strict";
 let myWeight = 50;
 let myHeight = 1.5;
 let hisWeight = 80;
